@@ -27,3 +27,12 @@ C:\Users\Administrator.SKY-20180301EDX\Desktop\Weiz.RabbitMQ\Weiz.MQ\obj\Debug\W
 C:\Users\Administrator.SKY-20180301EDX\Desktop\Weiz.RabbitMQ\Weiz.MQ\obj\Debug\Weiz.MQ.dll
 C:\Users\Administrator.SKY-20180301EDX\Desktop\Weiz.RabbitMQ\Weiz.MQ\obj\Debug\Weiz.MQ.pdb
 C:\Users\Administrator.SKY-20180301EDX\Desktop\Weiz.RabbitMQ\Weiz.MQ\obj\Debug\Weiz.MQ.csprojAssemblyReference.cache
+E:\RabbitMq\Weiz.RabbitMQ\Weiz.MQ\bin\Debug\Weiz.MQ.dll.config
+E:\RabbitMq\Weiz.RabbitMQ\Weiz.MQ\bin\Debug\Weiz.MQ.dll
+E:\RabbitMq\Weiz.RabbitMQ\Weiz.MQ\bin\Debug\Weiz.MQ.pdb
+E:\RabbitMq\Weiz.RabbitMQ\Weiz.MQ\bin\Debug\EasyNetQ.dll
+E:\RabbitMq\Weiz.RabbitMQ\Weiz.MQ\bin\Debug\EasyNetQ.xml
+E:\RabbitMq\Weiz.RabbitMQ\Weiz.MQ\obj\Debug\Weiz.MQ.csproj.CoreCompileInputs.cache
+E:\RabbitMq\Weiz.RabbitMQ\Weiz.MQ\obj\Debug\Weiz.MQ.csproj.CopyComplete
+E:\RabbitMq\Weiz.RabbitMQ\Weiz.MQ\obj\Debug\Weiz.MQ.dll
+E:\RabbitMq\Weiz.RabbitMQ\Weiz.MQ\obj\Debug\Weiz.MQ.pdb

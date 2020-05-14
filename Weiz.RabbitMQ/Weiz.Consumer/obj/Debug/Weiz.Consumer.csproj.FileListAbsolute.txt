@@ -36,3 +36,17 @@ C:\Users\Administrator.SKY-20180301EDX\Desktop\Weiz.RabbitMQ\Weiz.Consumer\bin\D
 C:\Users\Administrator.SKY-20180301EDX\Desktop\Weiz.RabbitMQ\Weiz.Consumer\bin\Debug\EasyNetQ.xml
 C:\Users\Administrator.SKY-20180301EDX\Desktop\Weiz.RabbitMQ\Weiz.Consumer\bin\Debug\RabbitMQ.Client.xml
 C:\Users\Administrator.SKY-20180301EDX\Desktop\Weiz.RabbitMQ\Weiz.Consumer\obj\Debug\Weiz.Consumer.csproj.CopyComplete
+E:\RabbitMq\Weiz.RabbitMQ\Weiz.Consumer\bin\Debug\Weiz.Consumer.exe.config
+E:\RabbitMq\Weiz.RabbitMQ\Weiz.Consumer\bin\Debug\Weiz.Consumer.exe
+E:\RabbitMq\Weiz.RabbitMQ\Weiz.Consumer\bin\Debug\Weiz.Consumer.pdb
+E:\RabbitMq\Weiz.RabbitMQ\Weiz.Consumer\bin\Debug\RabbitMQ.Client.dll
+E:\RabbitMq\Weiz.RabbitMQ\Weiz.Consumer\bin\Debug\Weiz.MQ.dll
+E:\RabbitMq\Weiz.RabbitMQ\Weiz.Consumer\bin\Debug\EasyNetQ.dll
+E:\RabbitMq\Weiz.RabbitMQ\Weiz.Consumer\bin\Debug\Weiz.MQ.pdb
+E:\RabbitMq\Weiz.RabbitMQ\Weiz.Consumer\bin\Debug\Weiz.MQ.dll.config
+E:\RabbitMq\Weiz.RabbitMQ\Weiz.Consumer\bin\Debug\EasyNetQ.xml
+E:\RabbitMq\Weiz.RabbitMQ\Weiz.Consumer\obj\Debug\Weiz.Consumer.csprojAssemblyReference.cache
+E:\RabbitMq\Weiz.RabbitMQ\Weiz.Consumer\obj\Debug\Weiz.Consumer.csproj.CoreCompileInputs.cache
+E:\RabbitMq\Weiz.RabbitMQ\Weiz.Consumer\obj\Debug\Weiz.Consumer.csproj.CopyComplete
+E:\RabbitMq\Weiz.RabbitMQ\Weiz.Consumer\obj\Debug\Weiz.Consumer.exe
+E:\RabbitMq\Weiz.RabbitMQ\Weiz.Consumer\obj\Debug\Weiz.Consumer.pdb
