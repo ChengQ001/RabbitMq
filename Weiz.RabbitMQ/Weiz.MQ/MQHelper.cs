@@ -12,7 +12,7 @@ namespace Weiz.MQ
     public class MQHelper
     {
         /// <summary>
-        /// 发送消息
+        /// 发送消息000
         /// </summary>
         public static void Publish(MyMessage msg)
         {
